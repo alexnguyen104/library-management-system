@@ -42,7 +42,7 @@ To run this project on your local machine:
 2. **Clone this repository and move the project folder**   
 Clone the repo:
    ```bash
-   git clone https://github.com/alexnguyen104/simple-library-management-system.git
+   git clone https://github.com/alexnguyen104/library-management-system.git
    ```
 
    Move the cloned folder into your `htdocs` directory:
@@ -60,5 +60,5 @@ Clone the repo:
     
     3. Visit the following URL in your browser:
     ```
-    http://localhost/simple-library-management-system/src/
+    http://localhost/library-management-system/src/
     ```
